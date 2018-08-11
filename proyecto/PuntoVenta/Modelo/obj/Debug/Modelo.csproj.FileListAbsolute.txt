@@ -1,0 +1,41 @@
+C:\Users\Melber\Desktop\ProgramacionIV\Clase05-Modelo\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase05-Modelo\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase05-Modelo\PuntoVenta\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase05-Modelo\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase05-Modelo\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase05-Modelo\PuntoVenta\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Modelo\obj\Debug\Modelo.pdb
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Modelo\obj\Debug\Modelo.pdb
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Modelo\obj\Debug\Modelo.pdb
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Modelo\bin\Debug\Modelo.dll
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Modelo\bin\Debug\Modelo.pdb
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Modelo\obj\Debug\Modelo.dll
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Modelo\obj\Debug\Modelo.pdb

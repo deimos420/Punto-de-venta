@@ -1,0 +1,51 @@
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Controlador\bin\Debug\Controlador.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Controlador\bin\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase07-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Controlador\bin\Debug\Controlador.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Controlador\bin\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase08-ADO\PuntoVenta\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Controlador\bin\Debug\Controlador.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Controlador\bin\Debug\Modelo.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Controlador\obj\Debug\Controlador.dll
+C:\Users\Melber\Desktop\ProgramacionIV\Clase09-CONSULTAS\PuntoVenta\Controlador\obj\Debug\Controlador.pdb
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Controlador\bin\Debug\Controlador.dll
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Controlador\bin\Debug\Controlador.pdb
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Controlador\bin\Debug\Modelo.dll
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Controlador\bin\Debug\Modelo.pdb
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Controlador\obj\Debug\Controlador.dll
+D:\PrograEscritorio\Programacion 4\clase 10\PuntoVenta\Controlador\obj\Debug\Controlador.pdb
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Controlador\bin\Debug\Controlador.dll
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Controlador\bin\Debug\Controlador.pdb
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Controlador\bin\Debug\Modelo.dll
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Controlador\bin\Debug\Modelo.pdb
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Controlador\obj\Debug\Controlador.dll
+D:\PrograEscritorio\Programacion 4\clase 11\PuntoVenta\Controlador\obj\Debug\Controlador.pdb
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Controlador\bin\Debug\Controlador.dll
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Controlador\bin\Debug\Controlador.pdb
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Controlador\bin\Debug\Modelo.dll
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Controlador\bin\Debug\Modelo.pdb
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Controlador\obj\Debug\Controlador.dll
+D:\PrograEscritorio\Programacion 4\proyecto\PuntoVenta\Controlador\obj\Debug\Controlador.pdb
